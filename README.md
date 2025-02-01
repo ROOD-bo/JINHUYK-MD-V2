@@ -26,12 +26,12 @@
 <a href="https://github.com/KangJinhuyk/JINHUYK-MD-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-</p>
+</p>       mJBB2IAZ#nZSNxRNBIqypgC1hlRrKN1Oy5xi_jB0gkxCee-FLUYk 
 
------------
+-------oui----
 <div align="center"><br> <img src="https://profile-counter.glitch.me/JINHUYK-MD-V2/count.svg" /><br>JINHUYK-MD-V2</div>
 
-------------
+----------oui--
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
