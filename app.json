@@ -1,4 +1,4 @@
-{
+{Bot
   "name": "🍂JINHUYK-MD-V2🍂",
   "description": "BOT BY KANG JINHUYK",
   "logo": "https://i.postimg.cc/cLL0MWyT/JINHUYK-MD-V2.jpg",
@@ -6,99 +6,99 @@
   "success_url": "https://github.com/KangJinhuyk/JINHUYK-MD-V2",
 
     "stack": "container",
-  "env": {
-    "SESSION_ID": {
+  "env": { contrainer
+    "SESSION_ID": { jIgW3JRC#t6eDqshjZYT2YWDuNeUGC3u4oGl0NWcjmBKZlQdku7M
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
     },  
     
-    "ALIVE_IMG": {
+    "ALIVE_IMG": {value
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
       "value": "https://i.postimg.cc/prRgWQPk/JINHUYK-BOT1.jpg"
     }, 
     
-    "ALIVE_MSG": {
+    "ALIVE_MSG": {true
       "description": "paste your alive message hear.",
       "required": true,
       "value": "HI DEAR JINHUYK ONLINE.!!♻️"
     },
     
-    "PREFIX": {
+    "PREFIX": {.
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
       "value": "."
     },
     
-    "MODE": {
+    "MODE": {public 
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
       "value": "public"
     }, 
 
-    "AUTO_VOICE": {
+    "AUTO_VOICE": {false
       "description": "Make it true if you want bot auto voice.",
       "required": true,
       "value": "false"
     }, 
 
-    "AUTO_REPLY": {
+    "AUTO_REPLY": {false
       "description": "Make it true if you want bot auto reply.",
       "required": true,
       "value": "false"
     }, 
 
-    "AUTO_STICKER": {
+    "AUTO_STICKER": {false
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
       "value": "false"
     }, 
 
-    "AUTO_READ_STATUS": {
+    "AUTO_READ_STATUS": {true
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
       "value": "true"
     }, 
 
-    "ANTI_LINK": {
+    "ANTI_LINK": {FALSE
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
       "value": "true"
     },
 
-    "ANTI_BAD": {
+    "ANTI_BAD": {true
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
       "value": "true"
     }, 
 
-    "FAKE_RECORDING": {
+    "FAKE_RECORDING": {FALSE
       "description": "Make it true if you want bot fake record.",
       "required": true,
       "value": "false"
     },
 
-    "AUTO_REACT": {
+    "AUTO_REACT": {false
       "description": "Make it true if you want bot AutoReact.",
       "required": false,
       "value": "false"
     },
 
-    "OWNER_REACT": {
+    "OWNER_REACT": {false
       "description": "Make it true if you want bot OwnerReact.",
       "required": false,
       "value": "false"
     
     }, 
 
-    "BOT_NAME": {
+    "BOT_required" J I N H U Y K-MD-V2
       "description": "write hear your name.",
       "required": true,
       "value": "『 ＪＩＮＨＵＹＫ-ＭＤ-Ｖ２』"
     }, 
 
-    "HEART_REACT": {
+    "HEART_REACT": {FALSE
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
       "required": true,
       "value": "false"
