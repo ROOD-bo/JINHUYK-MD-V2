@@ -28,7 +28,7 @@ module.exports = {
 
 SESSION_ID: process.env.SESSION_ID || "jIgW3JRC#t6eDqshjZYT2YWDuNeUGC3u4oGl0NWcjmBKZlQdku7M  ",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
-OWNER_NUMBER: process.env.OWNER_NUMBER || "50937529194",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "+50937529194",
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
