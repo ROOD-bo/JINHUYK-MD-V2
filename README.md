@@ -9,7 +9,7 @@
 
 <img src='https://i.postimg.cc/T1M4kVyf/JINHUYK-BOT2.jpg'/>
 
--------
+-------2MIzTaaD#wt9MjToLWLlQnI7FYd8K4EoOBm59VCsAa7u1ZB193WM
 
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`ＪＩＮＨＵＹＫ-MD+Ｖ２+W.A+BOT+BY+KANG+JINHUYK`" alt="">
@@ -75,7 +75,7 @@ jobs:
 
 [![FORK JINHUYK-MD-V2](https://img.shields.io/badge/FORK%20-JINHUYK%20MD%20V2-white)](https://github.com/KangJinhuyk/JINHUYK-MD-V2/fork)
 
-### <br>    ❖ SESSION_ID ❖
+### <br>   2MIzTaaD#wt9MjToLWLlQnI7FYd8K4EoOBm59VCsAa7u1ZB193WM ❖ SESSION_ID ❖
 
 
 `🚀 IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+242xxxxxx THEN YOU CAN GET YOUR SESSION_ID 🚀`
